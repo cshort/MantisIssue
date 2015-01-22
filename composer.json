@@ -2,7 +2,7 @@
     "name": "cshort/mantisissue",
     "description": "MantisBT MantisConnect SOAP API Connector",
     "keywords": [
-        "SC",
+	"MantisBT",
         "MantisIssue"
     ],
     "homepage": "https://github.com/cshort/MantisIssue",
@@ -33,7 +33,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0-dev"
+            "dev-master": "0.1.0-dev"
         }
     }
 }
